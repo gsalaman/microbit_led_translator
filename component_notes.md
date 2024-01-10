@@ -29,6 +29,16 @@ Want a port for LED interface:  data, 5v, and ground.  Same as with the barrel-j
 ## Voltage Regulator
 Need a voltage regulator that goes from 5v to the 3v power source on the microbit, and the associated glue-hardware.
 
+I'm leaning towards the 1117-3.3...I've used it before.  Datasheet here:
+https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5011/AMS1117.pdf
+
+Circuit looks like it wants a 22uF tantalum cap at the output, and a 10uF cap on input.  Note that on my old tiny-stick project I didn't include that 10uF..but I will with this one.
+
+And, then looking at JLCPCBs site, this one is no longer manufactured.  :(
+
+They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; checking out whether they'll work.
+
+
 ## Microbit interface
 Ideally, have a right-angle connector that goes into the 25-pin interface on the microbit.  TBD as to whether we do through-hole and solder this in ourselves, or do surface-mount, and have the factory deal with it.
 
