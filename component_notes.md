@@ -43,3 +43,12 @@ They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; checking out 
 Ideally, have a right-angle connector that goes into the 25-pin interface on the microbit.  TBD as to whether we do through-hole and solder this in ourselves, or do surface-mount, and have the factory deal with it.
 
 Want to pull out those 25 pins to a through-hole "bus", just in case someone wants access to other pins...and the nice thing here is that if we DON'T populate the connector, the user can wire the microbit away from the translation board.
+
+Okay, on further review, I don't think factory is the way to go.
+
+We've got these from sparkfun, $2.95 each.
+https://www.sparkfun.com/products/17252
+I'd say get one, and try it out to see if it's happy....and confirm the pin mappings....as the connector itself is 80 pin.
+
+
+
