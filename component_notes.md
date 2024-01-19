@@ -50,5 +50,16 @@ We've got these from sparkfun, $2.95 each.
 https://www.sparkfun.com/products/17252
 I'd say get one, and try it out to see if it's happy....and confirm the pin mappings....as the connector itself is 80 pin.
 
+Kicad library:  good reference here:  https://github.com/JordanElectronics/kicad-microbit-edge-connector  
+They source from the UK, but that looks like the same connector that sparkfun has in stock.
+
+Another version of the KiCad library:
+https://github.com/anthonykirby/kicad_microbit_connector
+
+Note:  good uBit pinout diagram here:
+https://resources.kitronik.co.uk/pdf/5601_edge_connector_breakout_board_for_the_bbc_microbit_datasheet_v1_2.pdf
+
+
+
 
 
