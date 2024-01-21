@@ -21,7 +21,10 @@ Sparkfun has these 2.5A:
 https://www.sparkfun.com/products/119
 
 ## Level Translator
-Need a 1-bit 3v-to-5v translator.  Could use a 74245, but that's 8 bits (overkill).  I think the 74145 is a one-bit version.
+Need a 1-bit 3v-to-5v translator.  Could use a 74245, but that's 8 bits (overkill).  JLCPCB has a bunch of 1-bit versions...my fav is from Diodes Incorporated..just over 7c a part (74VC1T45).  
+https://jlcpcb.com/parts/componentSearch?searchTxt=level%20translator
+
+
 
 ## LED Interface
 Want a port for LED interface:  data, 5v, and ground.  Same as with the barrel-jack...slots for either soldering a connector or pig-tail wires to the connector.
