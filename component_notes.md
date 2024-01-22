@@ -47,7 +47,7 @@ Circuit looks like it wants a 22uF tantalum cap at the output, and a 10uF cap on
 
 And, then looking at JLCPCBs site, this one is no longer manufactured.  :(
 
-They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; checking out whether they'll work.
+They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; looks like it works with a 10uF at the output and 100nF at the input.
 
 
 ## Microbit interface
