@@ -29,6 +29,14 @@ https://jlcpcb.com/parts/componentSearch?searchTxt=level%20translator
 ## LED Interface
 Want a port for LED interface:  data, 5v, and ground.  Same as with the barrel-jack...slots for either soldering a connector or pig-tail wires to the connector.
 
+Some of the lights need male connectors, some need female.  Here's a pack of 20:  
+https://www.amazon.com/BTF-LIGHTING-Connectors-WS2812B-WS2811-WS2812/dp/B01DC0KIT2/ref=asc_df_B01DC0KIT2/?tag=hyprod-20&linkCode=df0&hvadid=167155520817&hvpos=&hvnetw=g&hvrand=5668835828639984029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9051990&hvtargid=pla-308618065131&mcid=adc7d128015039faad7d4fcb170628a8&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe50yMojd_kpCKJ5NtLOBCV1RyqAfuJsqRfa1k5yM0gmIW65pZ-EbS1EaAr1qEALw_wcB&th=1
+
+Having trouble finding JUST the right angle connectors...they're they're JST-SMs, and most right angle are JST-PHs.  
+
+
+
+
 ## Voltage Regulator
 Need a voltage regulator that goes from 5v to the 3v power source on the microbit, and the associated glue-hardware.
 
