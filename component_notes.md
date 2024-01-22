@@ -71,6 +71,10 @@ Note:  good uBit pinout diagram here:
 https://resources.kitronik.co.uk/pdf/5601_edge_connector_breakout_board_for_the_bbc_microbit_datasheet_v1_2.pdf
 
 
+## Switches
+We've got a bunch of these...they're my default:
+https://www.sparkfun.com/products/102
+
 
 
 
