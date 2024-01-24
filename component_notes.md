@@ -49,6 +49,11 @@ And, then looking at JLCPCBs site, this one is no longer manufactured.  :(
 
 They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; looks like it works with a 10uF at the output and 100nF at the input.
 
+10uF:
+https://jlcpcb.com/partdetail/Hre-CSA0603X5R106M6R3JT/C3015157  
+
+100nf:
+
 
 ## Microbit interface
 Ideally, have a right-angle connector that goes into the 25-pin interface on the microbit.  TBD as to whether we do through-hole and solder this in ourselves, or do surface-mount, and have the factory deal with it.
