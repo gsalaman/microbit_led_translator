@@ -53,6 +53,7 @@ They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; looks like it
 https://jlcpcb.com/partdetail/Hre-CSA0603X5R106M6R3JT/C3015157  
 
 100nf:
+https://jlcpcb.com/partdetail/Walsin_TechCorp-0603B104M250CT/C107569  
 
 
 ## Microbit interface
