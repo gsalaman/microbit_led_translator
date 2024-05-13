@@ -31,7 +31,7 @@ LED header connections are shown below.
 
 ![v0_just_leds](https://github.com/gsalaman/microbit_led_translator/assets/43499190/855e4c6d-17d1-4fa2-ae7b-10f8b7fa8499)
 
-Note that you don't have to use those connectors on the microbit itself...if it makes more sense, you can run lines out to different components in your project...for example, if you want the power switch somewhere external.
+Note that you don't have to use those connectors on the translator board directly...if it makes more sense, you can run lines out to different components in your project...for example, if you want the power switch somewhere external.
 
 ## Advanced Operation
 All of the microbit pins are accessible through the bottom header as shown below:
