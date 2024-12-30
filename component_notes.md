@@ -54,7 +54,7 @@ They've got a bunch of LD1117DT33TR's.  Downloaded the data sheet; looks like it
 
 10uF:
 https://jlcpcb.com/partdetail/Hre-CSA0603X5R106M6R3JT/C3015157  
-2025 build note:  the one above isn't available anymore.  This one looks to be about the same:
+2025 build note:  the one above isn't available anymore.  This one looks to be about the same:  
 https://jlcpcb.com/partdetail/97651-CL10A106MA8NRNC/C96446
 
 100nf:
