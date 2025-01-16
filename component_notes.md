@@ -81,6 +81,8 @@ https://github.com/anthonykirby/kicad_microbit_connector
 Note:  good uBit pinout diagram here:
 https://resources.kitronik.co.uk/pdf/5601_edge_connector_breakout_board_for_the_bbc_microbit_datasheet_v1_2.pdf
 
+Another good one (courtesy Jeff) here:
+https://makecode.microbit.org/device/pins
 
 ## Switches
 Going with these from Adafruit:
