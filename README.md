@@ -1,22 +1,19 @@
 # Microbit LED Translator
 
-The microbit can drive strings of LED lights, but it does so with a 3v control line.  The LED strips themselves are current-hungry, and run off 5v.  The goals of this project are as follows:
+The microbit can drive strings of LED lights, but it does so with a 3v control line.  The LED strips themselves typically require a 5v control line.  In addition, they are currnent-hungry, and come in both 5v and 12v versions.  The goals of this project are as follows:
 
 * Translate the Microbit control signals from 3v to 5v.
-* Provide a single 5v power jack that can provide enough current to drive multiple LED strings at high brightness.
+* Provide a single 5v or 12v power jack that can provide enough current to drive multiple LED strings at high brightness.
 * Provide power to the Microbit.
-
-
-In addition, it's desirable to power the Microbit *either* from the 5v jack *or* a USB cable for programming.  Because of this, we've added a switch for "programming"...in addition to our standard "power switch".
 
 ## Board Overview
 
 The basic connections are shown in the diagram below:
 ![basic_connections](https://github.com/gsalaman/microbit_led_translator/assets/43499190/6d60134f-ddb6-49f2-bba4-7fb4bb62e5ec)
 
-A copule soldering preps are needed for basic operation:
-* Solder a barrell connector to the barrell connector jack.
-* Solder a switch into both the power connector and the programming connector.
+A couple soldering preps are needed for basic operation:
+* Solder a barrell connector for power.
+* Solder a switch into the power connector.
 * Solder the microbit connector onto the backside of the board in the microbit jack.  Note it's easier if you trim the two rows of top pins (closest to the microbit itself) before soldering the bottom two rows.
 * The LEDs themselves can either be soldered to the appropriate P0, P1 or P2 outlet, or a 3-pin header can be used.
 
