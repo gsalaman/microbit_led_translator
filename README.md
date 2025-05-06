@@ -7,6 +7,7 @@ The microbit can drive strings of LED lights, but it does so with a 3v control l
 * Provide power to the Microbit.
 
 ## Board Overview
+We currently support two versions of the Microbit Translator board:  a version for 5v LED strips (white) and for 12v LED strips (Blue).  The purple version is an old version of the 5v board...you can find notes on it ![here](https://github.com/gsalaman/microbit_led_translator/blob/main/version1_info.md)
 
 The basic connections are shown in the diagram below:
 ![Image](https://github.com/user-attachments/assets/5e936c8c-3823-47f5-8cc9-354c99500317)
