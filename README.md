@@ -9,7 +9,7 @@ The microbit can drive strings of LED lights, but it does so with a 3v control l
 ## Board Overview
 
 The basic connections are shown in the diagram below:
-![basic_connections](https://github.com/gsalaman/microbit_led_translator/assets/43499190/6d60134f-ddb6-49f2-bba4-7fb4bb62e5ec)
+![Image](https://github.com/user-attachments/assets/5e936c8c-3823-47f5-8cc9-354c99500317)
 
 A couple soldering preps are needed for basic operation:
 * Solder a barrell connector for power.
