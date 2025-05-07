@@ -27,11 +27,14 @@ Populated 12v board:
 
 You'll want a 5v or 12v power source with enough amperage to drive the number of LEDs for your project.  A 2-amp source should drive a little more than 150 lights; if you have more than that, you want a beefier power supply.
 
-The board will route either 5v or 12v to each of the LED headers, as well as providing 3.3v to the microbit itself.  No USB connetion to the microbit is needed for stanadard operation.  The power switch will gate this power on and off.
+The board will route either 5v or 12v to each of the LED headers, as well as providing 3.3v to the microbit itself.  No USB connetion to the microbit is needed for stanadard operation.  The power switch will gate power to the entire system on and off.
 
 ## Advanced Operation
 
 ### Direct Power Connection
+Instead of using a barrel jack connector, you can hook power directy to the pins on the board as shown below:
+
+### Power Switch Bypass
 
 ### External Power Switch
 
