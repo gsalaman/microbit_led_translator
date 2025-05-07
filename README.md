@@ -23,7 +23,7 @@ Populated 5v board:
 ![Image](https://github.com/user-attachments/assets/8883fae2-e30e-4b85-b696-7de554077681)
 
 Populated 12v board:
-
+![Image](https://github.com/user-attachments/assets/31ad0c0c-cf7c-488a-a22b-8fdc5f1d918a)
 
 You'll want a 5v or 12v power source with enough amperage to drive the number of LEDs for your project.  A 2-amp source should drive a little more than 150 lights; if you have more than that, you want a beefier power supply.
 
