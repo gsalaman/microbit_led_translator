@@ -20,6 +20,7 @@ A couple soldering preps are needed for basic operation:
 * The LEDs themselves can either be soldered to the appropriate P0, P1 or P2 outlet, or a 3-pin header can be used.
 
 Populated 5v board:
+![Image](https://github.com/user-attachments/assets/8883fae2-e30e-4b85-b696-7de554077681)
 
 Populated 12v board:
 
