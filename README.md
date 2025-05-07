@@ -36,6 +36,7 @@ Instead of using a barrel jack connector, you can hook power directy to the pins
 ![Image](https://github.com/user-attachments/assets/abcf005d-9dc8-4885-9bcb-a4684e206cfd)
 
 ### Power Switch Bypass
+If you want the board to be "always on", instead of soldering a switch in the "power switch" position, you can solder a jumper wire between the middle pin and pin closest to the "on" label.
 
 ### External Power Switch
 
