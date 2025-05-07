@@ -33,6 +33,7 @@ The board will route either 5v or 12v to each of the LED headers, as well as pro
 
 ### Direct Power Connection
 Instead of using a barrel jack connector, you can hook power directy to the pins on the board as shown below:
+![Image](https://github.com/user-attachments/assets/abcf005d-9dc8-4885-9bcb-a4684e206cfd)
 
 ### Power Switch Bypass
 
