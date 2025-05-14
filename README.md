@@ -1,6 +1,6 @@
 # Microbit LED Translator
 
-The microbit can drive strings of LED lights, but it does so with a 3v control line.  The LED strips themselves typically require a 5v control line.  In addition, they are currnent-hungry, and come in both 5v and 12v versions.  The goals of this project are as follows:
+The microbit can drive strings of LED lights, but it does so with a 3v control line.  The LED strips themselves typically require a 5v control line.  In addition, they are current-hungry, and come in both 5v and 12v versions.  The goals of this project are as follows:
 
 * Translate the Microbit control signals from 3v to 5v.
 * Provide a single 5v or 12v power jack that can provide enough current to drive multiple LED strings at high brightness.
